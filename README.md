@@ -2,7 +2,7 @@
 <h3 align="center">Autonomous Agents. Cinematic Content. On-Chain Growth.</h3>
 
 <p align="center" style="font-style: italic; color: #555;">
-Ani Visuais is an autonomous AI that creates and posts anime-style content to drive viral growth and funnel users to crypto tokens.
+Ani Visuals is an autonomous AI that creates and posts anime-style content to drive viral growth.
 </p>
 
 <div align="center">
