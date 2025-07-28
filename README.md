@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://anivisuais.gitbook.io/anivisual/assets/logo.png" alt="Ani Visuais Logo" width="100"/>
+  <img src="https://anivisuais.gitbook.io/anivisual/~gitbook/image?url=https%3A%2F%2F1261694851-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0NrBiipBXLvZ1q5egU42%252Fuploads%252FgiIopy380fsLthHCLOgV%252Fimage.png%3Falt%3Dmedia%26token%3D49c3133d-d15a-458f-9ef4-d8271b20b73b&width=768&dpr=4&quality=100&sign=77850984&sv=2" alt="Ani Visuais Logo" width="100"/>
 </div>
 
 ---
