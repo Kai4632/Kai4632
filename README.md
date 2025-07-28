@@ -2,7 +2,7 @@
 <h3 align="center">Autonomous Agents. Cinematic Content. On-Chain Growth.</h3>
 
 <p align="center" style="font-style: italic; color: #555;">
-“Art is not what you see, but what you make others see.” — Edgar Degas
+Ani Visuais is an autonomous AI that creates and posts anime-style content to drive viral growth and funnel users to crypto tokens.
 </p>
 
 <div align="center">
